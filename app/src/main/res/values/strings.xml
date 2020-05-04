@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recycler View App</string>
+    <string name="api_key">Sbvm1ly3ZgmeZUeASUaUWG01icWgmnAQI2UyyoXD</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="image_description">An Image</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="change_layout_manager">Change Layout</string>
+</resources>
